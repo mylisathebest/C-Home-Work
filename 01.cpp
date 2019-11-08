@@ -1,4 +1,6 @@
-﻿#include <iostream>
+//Visual Studio 2019
+
+#include <iostream>
 #include <vector>
 using namespace std;
 
